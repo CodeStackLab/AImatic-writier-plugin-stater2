@@ -1,0 +1,15 @@
+{
+    "name": "XU-AIMatic",
+    "slug": "xu-aimatic",
+    "version": "1.1.2",
+    "download_url": "https://github.com/xudevstudio/XU-AIMatic-Plugin/releases/download/v1.1.2/aimatic-writer.zip",
+    "homepage": "https://github.com/xudevstudio/XU-AIMatic-Plugin",
+    "requires": "5.6",
+    "tested": "6.4",
+    "author": "RankWriter",
+    "last_updated": "2025-12-16 10:00:00",
+    "sections": {
+        "description": "<p>AIMatic Writer is the ultimate AI content generator using OpenRouter and Gemini.</p>",
+        "changelog": "<h4>1.1.2</h4><ul><li>Fixed infinite loop in campaign runner.</li><li>Added Auto-Updater.</li></ul>"
+    }
+}
